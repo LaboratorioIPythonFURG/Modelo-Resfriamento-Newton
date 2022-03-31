@@ -8,4 +8,4 @@ ar é constante. É conveniente neste caso utilizar como unidades <b>°C</b> (pa
 calor, <b>κ=0.1</b> (min κ^(-1)).
 <h3> Objetivos:</h3>
 
-Este Notebook busca resolver um problema sobre a lei de resfriamento de Newton numericamente através do método de Euler.
+Este repositório busca resolver um problema sobre a lei de resfriamento de Newton numericamente através do método de Euler, Euler modificado, RK4 e bibliotecas Python.
